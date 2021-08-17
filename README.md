@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Namju Baek
+##### Hi there 👋 I'm Namju Baek
 
 ### 🤹‍♀️Skill
 
