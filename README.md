@@ -1,7 +1,7 @@
 #### Hi there 👋 
 
 ###### I'm Namju Baek, Android devloper.🌱
-###### 😊I have IOS development experience, but I prefer Android.
+###### I have IOS development experience, but I prefer Android.😊
 ㅤ
 
 ### 🤹‍♀️Skill
