@@ -3,8 +3,10 @@
 ###### 
 ###### 
 <p>
-  I'm Namju Baek, Android devloper.🌱<br/>
-  I have IOS development experience, but I prefer Android.😊<br/>
+  안녕하세요, 3년차 모바일 개발자로 유통업에서 앱 서비스 개발직으로 근무했습니다. (Android / iOS) 🌱<br/>
+  주로 사내 어플리케이션 개발을 진행했으며, 자사 쇼핑몰 모바일 서비스를 맡아 실제 앱스토어에 배포하고 운영했던 경험이 있습니다.<br/><br/>
+  
+  iOS 개발 경험도 있지만, 유연하게 개발할 수 있는 안드로이드 개발자로 성장하기 위해 노력하고 있습니다.
 </p>
 
 ### 🤹‍♀️Skill
